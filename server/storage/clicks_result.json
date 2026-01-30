@@ -1,0 +1,36 @@
+{
+  "externalId": "A2388",
+  "bars": [
+    {
+      "index": 1,
+      "length": 450.0
+    },
+    {
+      "index": 2,
+      "length": 450.0
+    },
+    {
+      "index": 3,
+      "length": 450.0
+    },
+    {
+      "index": 4,
+      "length": 450.0
+    },
+    {
+      "index": 5,
+      "length": 450.0
+    },
+    {
+      "index": 6,
+      "length": 450.0
+    },
+    {
+      "index": 7,
+      "length": 450.0
+    }
+  ],
+  "totalBars": 7,
+  "totalLength": 3150.0,
+  "timestamp": 1769774511067
+}
